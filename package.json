@@ -1,0 +1,25 @@
+{
+  "name": "projeto-preprocessadores",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaolima09/projeto-preprocessadores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joaolima09/projeto-preprocessadores/issues"
+  },
+  "homepage": "https://github.com/joaolima09/projeto-preprocessadores#readme",
+  "devDependencies": {
+    "less": "^4.9.1",
+    "sass": "^1.105.2"
+  }
+}
